@@ -270,6 +270,7 @@
                          <span class="text-light" style="float: right" >
 				 </span>
                          <div class="clear"></div>
+                         <a style="float: right; margin-left: 10px" id="read-more" href="singlepost.html">Travel Guide<span></span></a>
                          <a style="float: right; margin-left: 10px" id="read-more" href="singlepost.html">Read More <span></span></a>
                          <a style="float: right" id="read-more" href="singlepost.html">Booking Now<span></span></a>
                      </li>
